@@ -1,19 +1,28 @@
 /* Your Website Styles */
+
+html { 
+  background: url("../img/beach-campfire-night.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
 body {
 	font-family: 'Lato', sans-serif;
-	background: url("../img/bedge_grunge.png");
-	color: #434B4E;
+	
+	
+	color: #fff;
 }
+
 
 h1{
-	color: #fff;
-	background-color: #53717C;
+	
+	font-size: 3em;
+
 }
 
-h2{
-	color: #434B4E;
-	background-color: #C8783B;
-}
 
 
 div {

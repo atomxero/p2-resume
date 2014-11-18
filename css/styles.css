@@ -11,15 +11,23 @@ html {
 
 body {
 	font-family: 'Lato', sans-serif;
+	color: #F8F8D6;
+}
+
+blockquote {
+	color:  #F8F8D6;
+	font-size: 2em;
 	
-	
-	color: #fff;
+	letter-spacing: 1px;
+	text-align: center; 
 }
 
 
 h1{
-	
-	font-size: 3em;
+	font-family: 'Lobster', cursive;
+	text-align: center;
+	font-size: 4em;
+	color: #FA3E3E;
 
 }
 
@@ -29,5 +37,8 @@ div {
 	margin-top: -60px;	x 
 }
 
-
+nav li{
+	text-align: center;
+	list-style: none;
+}
 /* Show Grid */

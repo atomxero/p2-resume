@@ -1,6 +1,7 @@
 /* Your Website Styles */
 body {
-	background: #eee;
+	font-family: 'Lato', sans-serif;
+	background: url("../img/bedge_grunge.png");
 }
 
 
